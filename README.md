@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Vbhadala
-- 👀 I’m interested in building no code apps.
-- 🌱 I’m currently learning Javascript to further enhance my no code skills
+- 👀 I’m learning python to simplify my trading decision.
 - 💞️ I’m looking to collaborate with no code developers
 - 📫 You can reach me here 
 
