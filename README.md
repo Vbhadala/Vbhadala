@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Vbhadala
 - 👀 I’m learning python to simplify my trading decision.
-- 💞️ I’m looking to collaborate with no code developers
 - 📫 You can reach me here 
 
 <!---
