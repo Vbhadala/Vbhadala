@@ -30,7 +30,7 @@ I'm a developer-trader hybrid who builds tools to make smarter market decisions 
 
 - GitHub: [@Vbhadala](https://github.com/Vbhadala)
 - Replit Profile: [replit.com/@vbhadala](https://replit.com/@vbhadala)
-- Email: [Your email or placeholder]
+- Email: vinodbhadala@gmail.com
 
 ---
 
