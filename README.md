@@ -1,40 +1,34 @@
-# 👋 Hi, I’m Vinod Bhadala (@Vbhadala)
+# Hi, I'm Vinod Bhadala
 
-I'm a developer-trader hybrid who builds tools to make smarter market decisions using Python, FastAPI, and Pine Script — and I also craft powerful no-code apps with tools like Bubble and Webflow.
+I'm a developer-trader who builds and ships full products solo — trading infrastructure, SaaS platforms, and AI agent tooling. I trade Indian markets systematically, and most of what I build starts as a tool I needed myself.
 
-## 💼 What I Do
+## 🚀 What I've built
 
-- 🔁 **Algorithmic Options Trader**: Designing and automating strategies like Strangles, Iron Flies, Calendar Spreads, and more — with volatility, delta, and DTE as core inputs.
-- 📈 **TradingView & Pine Script Pro**: Building custom indicators for volatility surfaces, multi-timeframe performance tracking, and trend detection.
-- ⚙️ **FastAPI Architect**: Crafting async, multi-broker trading platforms with database persistence (PostgreSQL/SQLite), background jobs, and CLI controls.
-- 🧠 **AI-Powered Apps**: Integrating OpenAI & vector DBs (Pinecone) to build Q&A engines, smart summaries, and audio-driven tools.
-- 📊 **Backtesting Strategist**: Using Backtrader with sectoral ETF data for rules-based, multi-timeframe RSI/EMA strategies.
-- 🛠️ **No-Code App Builder**: Rapidly prototyping and shipping MVPs with **Bubble** and **Webflow**, from business tools to interactive dashboards.
+**Trading stack** (data → backtest → execution, all live):
 
-## 🛠️ Tech Stack
+- **[fastalgo](https://fastalgo.app)** — production algorithmic trading platform for Indian markets (NSE). Multi-broker execution, real-time WebSocket feeds, strategy risk controls, TradingView webhook automation. FastAPI + React + ClickHouse, self-hosted with Docker & CI/CD.
+- **[fastbt-quant](https://pypi.org/project/fastbt-quant/)** — open-source, pandas-native backtesting library on PyPI, designed around backtest/live parity (explicit fill policies, strict schema validation). Python 3.11+, fully typed, MIT.
+- **idata** — self-hosted market data API (10y EOD, 1-min options OHLCV, option chains with Greeks) on TimescaleDB, powering the stack above.
 
-- **Languages**: Python, JavaScript, HTML/CSS
-- **Frameworks**: FastAPI, Flask (migrated), SQLModel, Tailwind CSS, Lit (Web Components)
-- **Trading Tools**: Pine Script v5, Backtrader, Pandas, NumPy
-- **Infra**: PostgreSQL, SQLite, Replit
-- **AI Tools**: OpenAI API, Pinecone
-- **No-Code**: Bubble, Webflow
+**Products:**
 
-## 🔍 Looking For
+- **[Zortal](https://zortal.in)** — Business OS for Indian SMEs: multi-tenant websites, CRM, invoicing, attendance/payroll, client portals, AI website builder. Next.js + Drizzle + Postgres, with a companion Expo mobile app.
+- **AgentHQ** *(in progress)* — multi-tenant RAG assistant platform: ingest your docs/site, serve AI assistants via web widget, Slack, Discord, WhatsApp, and MCP.
 
-- 🧩 Collaborations on trading tools, strategy automation, or data visualization.
-- 🚀 Freelance or consulting work in FastAPI, Pine Script, or no-code app development.
-- 💡 Startups or individuals looking to turn MVP ideas into working products — fast.
+**Tooling:**
 
-## 📫 Let’s Connect
+- **[mstack](https://github.com/Vbhadala/mstack)** — Claude Code plugin implementing a plan → review → code agent workflow, plus QA, debugging, mockup, and design-system skills. I build almost everything with agentic workflows now.
 
-- GitHub: [@Vbhadala](https://github.com/Vbhadala)
-- Replit Profile: [replit.com/@vbhadala](https://replit.com/@vbhadala)
+## 🛠️ Stack
+
+Python (FastAPI, pandas, pydantic) · TypeScript (Next.js, React, Expo/React Native) · PostgreSQL, TimescaleDB, ClickHouse, Redis · Docker, GitHub Actions, self-hosted VPS · AI: RAG pipelines, MCP, Claude Code agent workflows
+
+## 💼 Open to
+
+- **Startup roles** where I can build products end-to-end — especially AI tooling, fintech, and developer tools.
+- **Freelance / consulting** via [Million Labs](https://millionlabs.co.uk) — MVPs shipped fast, web + mobile.
+
+## 📫 Contact
+
 - Email: vinodbhadala@gmail.com
-
----
-
-<!---
-Vbhadala/Vbhadala is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- GitHub: [@Vbhadala](https://github.com/Vbhadala)
