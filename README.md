@@ -26,7 +26,7 @@ Python (FastAPI, pandas, pydantic) · TypeScript (Next.js, React, Expo/React Nat
 ## 💼 Open to
 
 - **Startup roles** where I can build products end-to-end — especially AI tooling, fintech, and developer tools.
-- **Freelance / consulting** via [Million Labs](https://millionlabs.co.uk) — MVPs shipped fast, web + mobile.
+- **Freelance / contract work** — MVPs shipped fast, web + mobile, end to end.
 
 ## 📫 Contact
 
