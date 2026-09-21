@@ -1,34 +1,31 @@
-# Hi, I'm Vinod Bhadala
+# Hi, I'm Vinod 👋
 
-I'm a developer-trader who builds and ships full products solo — trading infrastructure, SaaS platforms, and AI agent tooling. I trade Indian markets systematically, and most of what I build starts as a tool I needed myself.
+Building [**Zortal**](https://zortal.in/) — an AI website builder helping local businesses build, launch, and get found online.
 
-## 🚀 What I've built
+I came into tech through an unusual route. I started in **finance**, taught myself to build software along the way, and eventually made building products my full-time thing.
 
-**Trading stack** (data → backtest → execution, all live):
+## Currently
 
-- **[fastalgo](https://fastalgo.app)** — production algorithmic trading platform for Indian markets (NSE). Multi-broker execution, real-time WebSocket feeds, strategy risk controls, TradingView webhook automation. FastAPI + React + ClickHouse, self-hosted with Docker & CI/CD.
-- **[fastbt-quant](https://pypi.org/project/fastbt-quant/)** — open-source, pandas-native backtesting library on PyPI, designed around backtest/live parity (explicit fill policies, strict schema validation). Python 3.11+, fully typed, MIT.
-- **idata** — self-hosted market data API (10y EOD, 1-min options OHLCV, option chains with Greeks) on TimescaleDB, powering the stack above.
+- 🚀 Building **Zortal** and exploring how AI changes the way websites are built
+- 📈 Building and trading systematic strategies in Indian markets
+- 🧪 Shipping open-source tools and side projects
+- 🤖 Experimenting heavily with coding agents and agentic development workflows
 
-**Products:**
+## A few things I've built
 
-- **[Zortal](https://zortal.in)** — Business OS for Indian SMEs: multi-tenant websites, CRM, invoicing, attendance/payroll, client portals, AI website builder. Next.js + Drizzle + Postgres, with a companion Expo mobile app.
-- **AgentHQ** *(in progress)* — multi-tenant RAG assistant platform: ingest your docs/site, serve AI assistants via web widget, Slack, Discord, WhatsApp, and MCP.
+- [**fastalgo**](https://fastalgo.app/) — algorithmic trading platform for Indian markets with multi-broker execution, real-time data, automation, and risk controls.
+- [**fastbt-quant**](https://pypi.org/project/fastbt-quant/) — open-source, pandas-native Python backtesting library built around backtest/live parity.
+- **idata** — self-hosted market-data infrastructure covering EOD, intraday and options data.
+- [**zstack**](https://github.com/Vbhadala/zstack) — agentic development workflow for planning, reviewing, building, debugging, and QA.
 
-**Tooling:**
+## Stack
 
-- **[mstack](https://github.com/Vbhadala/mstack)** — Claude Code plugin implementing a plan → review → code agent workflow, plus QA, debugging, mockup, and design-system skills. I build almost everything with agentic workflows now.
+**Python** · FastAPI · pandas · Pydantic · **TypeScript** · Next.js · React · Expo  PostgreSQL · TimescaleDB · ClickHouse · Redis · Docker · GitHub Actions  RAG · MCP · LLM integrations · coding agents
 
-## 🛠️ Stack
+I care about **clear systems, fast first versions, and products that stay useful after the novelty wears off.**
 
-Python (FastAPI, pandas, pydantic) · TypeScript (Next.js, React, Expo/React Native) · PostgreSQL, TimescaleDB, ClickHouse, Redis · Docker, GitHub Actions, self-hosted VPS · AI: RAG pipelines, MCP, Claude Code agent workflows
+## Let's talk
 
-## 💼 Open to
+Always happy to talk **products, AI, SaaS, markets, or building things** — and open to interesting collaborations and selective consulting work.
 
-- **Startup roles** where I can build products end-to-end — especially AI tooling, fintech, and developer tools.
-- **Freelance / contract work** — MVPs shipped fast, web + mobile, end to end.
-
-## 📫 Contact
-
-- Email: vinodbhadala@gmail.com
-- GitHub: [@Vbhadala](https://github.com/Vbhadala)
+📫 **vinodbhadala@gmail.com**
